@@ -1,10 +1,6 @@
-<br clear="both">
-
-<h2 align="center">Hey 👋, Im HackersHaven</h2>
+<h1 align="center">Hey 👋, Im HackersHaven</h2>
 
 ###
-
-<br clear="both">
 
 <h3 align="center">I'm your Skid & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
 
@@ -16,19 +12,17 @@
 
 ###
 
-<h5 align="center">- About Me -<br>💬 Ask me about: Astronomy, Malware Development, Coding And Bursting Eardrums 🤓.<br><br>🌟 If you like what I do, follow my GitHub and star my Repositories! Thank you very much!</h5>
+<h4 align="center">- About Me -<br>💬 Ask me about: Astronomy, Malware Development, Coding And Bursting Eardrums 🤓.<br><br>🌟 If you like what I do, follow my GitHub and star my Repositories! Thank you very much!</h5>
 
 ###
 
-<h6 align="center">- Tools/Languages -</h6>
+<h4 align="center">- Tools/Languages -</h6>
 
 ###
 
 <h3 align="center">Languages I know/understand:</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -46,6 +40,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HackersHaven/snake-contributions/ff68280e234dcff8c4118d55e4660f31f8c0fc61/dekrypted-output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/HackersHaven/HackersHaven/output/snake.svg" alt="Snake animation" />
 
 ###
