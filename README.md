@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hey 👋, Im HackersHaven</h2>
+<h1 align="center">Hey 👋, Im HackersHaven</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h6 align="center">- Tools/Languages -</h6>
+<h4 align="center">- Tools/Languages -</h6>
 
 ###
 
