@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Aarush!</h1>
-<h3 align="center">I am a skid, minor,  programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub!</h3>
+<h1 align="center">Hey 👋, I'm DeKrypt!</h1>
+<h3 align="center">I'm your Skid & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dekrypted&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
@@ -10,7 +10,7 @@
 
 <h4 align="center">- About Me - </h4>
 
-- 💬 Ask me about: **Linux, Malware Development, Skidding 🤓 And Killing Eardrums.**
+- 💬 Ask me about: **Astronomy, Malware Development, Coding And Bursting Eardrums 🤓.**
 
 - 🌟 If you like what I do, **follow my GitHub and star my Repositories! Thank you very much!**
 
@@ -26,6 +26,6 @@
 <h4 align="center">- Contribution Snake! -</h4>
 
 <p align="center">
-    <img src="[https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only](https://raw.githubusercontent.com/dekrypted/dekrypted/42854fe80b4bf488a321783f2188d58a3e71e5f3/github-contribution-grid-snake-dark.svg)https://raw.githubusercontent.com/dekrypted/dekrypted/42854fe80b4bf488a321783f2188d58a3e71e5f3/github-contribution-grid-snake-dark.svg">
-    <img src="[https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only](https://raw.githubusercontent.com/HackersHaven/snake-contributions/ff68280e234dcff8c4118d55e4660f31f8c0fc61/dekrypted-output/github-contribution-grid-snake.svg)https://raw.githubusercontent.com/HackersHaven/snake-contributions/ff68280e234dcff8c4118d55e4660f31f8c0fc61/dekrypted-output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+    <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
