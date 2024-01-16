@@ -46,6 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HackersHaven/HackersHaven/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/HackersHaven/snake-contributions/ff68280e234dcff8c4118d55e4660f31f8c0fc61/dekrypted-output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
