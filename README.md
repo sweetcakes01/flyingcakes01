@@ -10,7 +10,7 @@
 
 <h4 align="center">- About Me - </h4>
 
-- 💬 Ask me about: **WinAPI, Malware Development, Reverse Engineering, Pentesting.**
+- 💬 Ask me about: **Linux, Malware Development, Skidding 🤓 And Killing Eardrums.**
 
 - 🌟 If you like what I do, **follow my GitHub and star my Repositories! Thank you very much!**
 
