@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Aarush!</h1>
-<h3 align="center">I am a skid, minor,  programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow and star one of my repos!</h3>
+<h3 align="center">I am a skid, minor,  programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub!</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dekrypted&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
