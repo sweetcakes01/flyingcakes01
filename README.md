@@ -26,6 +26,6 @@
 <h4 align="center">- Contribution Snake! -</h4>
 
 <p align="center">
-    <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-    <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+    <img src="[https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only](https://raw.githubusercontent.com/dekrypted/dekrypted/42854fe80b4bf488a321783f2188d58a3e71e5f3/github-contribution-grid-snake-dark.svg)https://raw.githubusercontent.com/dekrypted/dekrypted/42854fe80b4bf488a321783f2188d58a3e71e5f3/github-contribution-grid-snake-dark.svg">
+    <img src="[https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only](https://raw.githubusercontent.com/HackersHaven/snake-contributions/ff68280e234dcff8c4118d55e4660f31f8c0fc61/dekrypted-output/github-contribution-grid-snake.svg)https://raw.githubusercontent.com/HackersHaven/snake-contributions/ff68280e234dcff8c4118d55e4660f31f8c0fc61/dekrypted-output/github-contribution-grid-snake.svg">
 </p>
