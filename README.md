@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hey 👋, Im HackersHaven</h2>
+<h2 align="center">Hey 👋, Im HackersHaven</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="center">- Tools/Languages -</h6>
+<h6 align="center">- Tools/Languages -</h6>
 
 ###
 
@@ -45,8 +45,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/HackersHaven/HackersHaven/output/snake.svg" alt="Snake animation" />
 
