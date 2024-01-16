@@ -3,14 +3,14 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=HackersHaven&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff0000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/HackersHsven" alt="Total Stars" ></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff0000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/HackersHaven" alt="Total Stars" ></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/HackersHaven" alt="Total Forks"></a> </p>
 
 ---
 
 <h4 align="center">- About Me - </h4>
 
-- 💬 Ask me about: **WinAPI, Malware Development, Reverse Engineering, Pentesting.**
+- 💬 Ask me about: **Astronomy, Malware Development, Coding, Bursting Eardrums.**
 
 - 🌟 If you like what I do, **follow my GitHub and star my Repositories! Thank you very much!**
 
