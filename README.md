@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Aarush!</h1>
-<h3 align="center">I'm your Average Skid & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
+<h3 align="center">I'm your Average 14 Year Old Skid & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=HackersHaven&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
