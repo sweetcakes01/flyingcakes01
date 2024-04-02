@@ -1,6 +1,6 @@
-Hey! 
-Im Cakes
-i am poor and own a dropshipping buiseness to get a pc. 
+#Hey! 
+#Im Cakes
+#i am poor and own a dropshipping buiseness to get a pc. 
 btc bc1q4vggxgu4p4unpahf2xkcjsxxctc92lz39m6dg2
 eth 0x34377229FE7935aa12D0C32F4e777b781C493ab3
 xmr 43x3sPjXA22HzMtJQMboWC5YStjJqR8ZkKeEtX4QcFzEdPSxRnL22uYT1ivjY7ZXLaNK7d9ow9R1KNjTKSD3AR74AqSsWNz
