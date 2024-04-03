@@ -1,45 +1,29 @@
-# Hello, I'm flyingcakes01! 🚀
+<h1 align="center">Hey 👋, I'm FlyingCakes01!</h1>
+<h3 align="center">I'm a 14 year old Software Engineer and Content Creator.</h3>
 
-Welcome to my digital kitchen where I cook up code and sprinkle creativity on my projects. 🍰✨
-Check out my website: [cake.wtf](https://cake.wtf)
-## 🎈 About Me
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=flyingcakes01&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff0000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/flyingcakes01" alt="Total Stars" ></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/flyingcakes01" alt="Total Forks"></a> </p>
 
-I'm a passionate developer with a sweet tooth for innovative coding and design. Whether it's front-end flavors, back-end recipes, or full-stack feasts, I love creating delightful digital experiences that leave a lasting taste. 🧁💻
+---
 
-- 🔭 I’m currently working on web development projects that aim to make the internet a tastier place.
-- 🌱 I’m currently learning advanced JavaScript frameworks and exploring the world of AI and machine learning.
-- 👯 I’m looking to collaborate on open-source projects and creative coding challenges.
-- 🤔 I’m looking for help with mastering cloud deployment strategies.
-- 💬 Ask me about web design, JavaScript, and anything related to coding with a dash of creativity.
-- 📫 How to reach me: Just drop an email or reach out on my website!
-- 😄 Pronouns: [He/Him]
-- ⚡ Fun fact: I believe coding is like baking; it requires patience, precision, and a lot of experimentation.
-## 🎨 Interactive Features
+<h4 align="center">- About Me - </h4>
 
-- **GitHub Stats:** Dynamic statistics to showcase your coding activity and most used languages.
+- 💬 Ask me about: **System Scripting, Windows API, Reverse Engineering and Tutorial-Style Content Creation.**
+  
+---
 
-![flyingcakes01's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyingcakes01&show_icons=true&theme=radical)
+<h4 align="center">- Tools/Languages -</h4>
 
-- **Top Languages Card:** Display your most used languages in a colorful pie chart.
+<h3 align="center">Languages I know/understand:</h3>
+<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingcakes01&layout=compact&theme=buefy)
+---
 
-- **Project Highlights:** A section to embed your recent projects or noteworthy contributions. You can use GitHub's repo cards for a visual representation.
+<h4 align="center">- Contribution Snake -</h4>
 
-```html
-<a href="https://github.com/flyingcakes01/awesome-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingcakes01&repo=awesome-project&theme=vue" />
-</a>
-<a href="https://github.com/flyingcakes01/another-cool-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flyingcakes01&repo=another-cool-project&theme=vue-dark" />
-</a>
-## 🚀 Let's Connect!
-
-Feel free to reach out if you want to talk about web development, design, or just want to share your favorite cake recipe. Here's where you can find me:
-
-- [Website: cake.wtf](https://cake.wtf)
-- [Youtube](FlyingCakes01)
-- [Twitter](FlyingCakes01)
-- [Instagram](FlyingCakes01)
-
-Thank you for stopping by my GitHub kitchen! Hope you found something sweet. 🍰💖
+<p align="center">
+    <img src="https://github.com/flyingcakes01/flyingcakes01/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+    <img src="https://github.com/flyingcakes01/flyingcakes01/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+</p>
