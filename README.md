@@ -12,7 +12,7 @@ I'm a passionate developer with a sweet tooth for innovative coding and design. 
 - 🤔 I’m looking for help with mastering cloud deployment strategies.
 - 💬 Ask me about web design, JavaScript, and anything related to coding with a dash of creativity.
 - 📫 How to reach me: Just drop an email or reach out on my website!
-- 😄 Pronouns: [Your preferred pronouns]
+- 😄 Pronouns: [He/Him]
 - ⚡ Fun fact: I believe coding is like baking; it requires patience, precision, and a lot of experimentation.
 ## 🎨 Interactive Features
 
